@@ -1,0 +1,41 @@
+.header{
+	background:url(../img/QQ截图20160330171126.png) no-repeat ;
+	width:100%;
+	min-height: 600px;
+	display: block;
+	background-size: cover;
+}
+.demo{
+	height:85px;
+}
+.demo1{
+	background: url(../img/demo_01.jpg) no-repeat center;
+}
+.demo2{
+	background: url(../img/demo_02.jpg) no-repeat center;
+}
+.demo3{
+	background: url(../img/demo_03.jpg) no-repeat center;
+}
+.demo4{
+	background: url(../img/demo_04.jpg) no-repeat center;
+}
+.demo5{
+	background: url(../img/demo_05.jpg) no-repeat center;
+}
+.demo6{
+	background: url(../img/demo_06.jpg) no-repeat center;
+}
+.demo7{
+	background: url(../img/demo_07.jpg) no-repeat center;
+	height:70px;
+}
+
+
+@media (max-width:1005px ) {
+	.top-nav ul li{
+	padding: 1.6em 0.5em;
+  	padding-top: 1.6em;
+  	padding-right: 0.5em;
+}
+}
